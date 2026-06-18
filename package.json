@@ -1,0 +1,27 @@
+{
+  "name": "hubspot-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for the HubSpot CRM API, generated with MCPForge",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "hubspot",
+    "crm",
+    "mcpforge",
+    "ai-agents",
+    "claude"
+  ],
+  "homepage": "https://www.mcpforge.tech/verified/hubspot-mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCPForgeHQ/hubspot-mcp.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
