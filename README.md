@@ -1,6 +1,6 @@
 # HubSpot MCP
 
-[![Verified by MCPForge](https://www.mcpforge.tech/api/badge/verified/hubspot-mcp)](https://www.mcpforge.tech/verified/hubspot-mcp)
+[![Verified by MCPForge](https://www.mcpforge.tech/api/badge/verified/hubspot-mcp-mqks5v9j-mqks5v9j)](https://www.mcpforge.tech/verified/hubspot-mcp-mqks5v9j)
 [![smithery badge](https://smithery.ai/badge/kamolc4/hubspot-mcp)](https://smithery.ai/servers/kamolc4/hubspot-mcp)
 
 MCP server for the [HubSpot CRM API](https://developers.hubspot.com/docs/api/overview), generated with [MCPForge](https://mcpforge.tech).
@@ -117,7 +117,7 @@ These tools permanently delete CRM records and require human approval before exe
 | Approval-required tools | 2 |
 | Governance controls | 3 / 5 |
 
-Full report: [mcpforge.tech/verified/hubspot-mcp](https://www.mcpforge.tech/verified/hubspot-mcp)
+Full report: [mcpforge.tech/verified/hubspot-mcp-mqks5v9j](https://www.mcpforge.tech/verified/hubspot-mcp-mqks5v9j)
 
 ---
 
