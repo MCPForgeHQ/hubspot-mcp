@@ -12,7 +12,7 @@ This MCP server exposes core HubSpot CRM operations as tools that Claude and oth
 ## Live Endpoint
 
 ```
-https://www.mcpforge.tech/api/servers/hubspot-mcp-demo
+https://www.mcpforge.tech/api/servers/hubspot-mcp-x44l7
 ```
 
 No setup required — connect Claude Desktop or any MCP client to this endpoint and start using it immediately.
@@ -29,7 +29,7 @@ Add this to your `claude_desktop_config.json`:
 {
   "mcpServers": {
     "hubspot-mcp": {
-      "url": "https://www.mcpforge.tech/api/servers/hubspot-mcp-demo",
+      "url": "https://www.mcpforge.tech/api/servers/hubspot-mcp-x44l7",
       "transport": "http"
     }
   }
@@ -48,7 +48,7 @@ Add to your Cursor MCP settings:
 {
   "mcpServers": {
     "hubspot-mcp": {
-      "url": "https://www.mcpforge.tech/api/servers/hubspot-mcp-demo",
+      "url": "https://www.mcpforge.tech/api/servers/hubspot-mcp-x44l7",
       "transport": "http"
     }
   }
